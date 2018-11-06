@@ -6,3 +6,7 @@
 
 * [Spiced Pumpkin Muffins](dessert/spiced-pumpkin-muffins.md)
 
+## Dinner
+
+* [Turkey Chili](dinner/turkey-chili.md)
+
