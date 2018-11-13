@@ -13,3 +13,7 @@
 ## Dessert
 
 * [Spiced Pumpkin Muffins](dessert/spiced-pumpkin-muffins.md)
+
+## Dutch Oven
+
+* [Sausage and Pepper Lasagna](dutch-oven/sausage-and-pepper-lasagna.md)
