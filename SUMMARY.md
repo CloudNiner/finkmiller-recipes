@@ -4,6 +4,7 @@
 
 ## Dinner
 
+* [Cranberry Pork Roast](dinner/cranberry-port-roast.md)
 * [Turkey Chili](dinner/turkey-chili.md)
 
 ## Sides
