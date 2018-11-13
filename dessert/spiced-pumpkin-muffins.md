@@ -14,4 +14,3 @@ description: Simple and delicious fall treat.
 ## Instructions
 
 Preheat oven to 350F. Mix all ingredients in a large bowl. Place mixture in muffin pan and bake for 18 mins. Optionally serve with cream cheese frosting.
-
