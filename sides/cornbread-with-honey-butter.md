@@ -44,6 +44,8 @@ Bake to core temperature of 194 °F / 90 °C, about 15 minutes.
 
 If using bread tins, carefully remove the bread from the pans while still hot, and place on cooling rack. This way, the bread will develop more of a crust.
 
+## Instructions -- Honey Butter
+
 Combine all ingredients in a stand mixer or food processor. Or use a Pacojet if available. You can whip the butter if you want a light, spreadable texture or simply mix until everything is combined to retain the dense texture of regular butter.
 
 ## Credit
