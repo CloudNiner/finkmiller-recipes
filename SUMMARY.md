@@ -9,6 +9,7 @@
 
 ## Sides
 
+* [Cornbread with Honey Butter](sides/cornbread-with-honey-butter.md)
 * [Sausage and Cranberry Stuffing](sides/sausage-cranberry-stuffing.md)
 
 ## Dessert
