@@ -4,6 +4,8 @@ description: Simple and delicious fall treat.
 
 # Spiced Pumpkin Muffins
 
+_Makes:_ **12 - 18** | _Total time:_ **30 minutes**
+
 ## Ingredients
 
 * [ ] **1 15oz can** of pumpkin

@@ -15,6 +15,7 @@
 
 ## Dessert
 
+* [Blueberry Banana Bread](dessert/blueberry-banana-bread.md)
 * [Spiced Pumpkin Muffins](dessert/spiced-pumpkin-muffins.md)
 
 ## Dutch Oven
