@@ -9,6 +9,7 @@
 
 ## Sides
 
+* [Cauliflower Mac and Cheese](sides/cauliflower-mac-and-cheese.md)
 * [Cornbread with Honey Butter](sides/cornbread-with-honey-butter.md)
 * [Sausage and Cranberry Stuffing](sides/sausage-cranberry-stuffing.md)
 
