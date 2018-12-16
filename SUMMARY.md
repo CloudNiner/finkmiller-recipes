@@ -18,4 +18,5 @@
 
 ## Dutch Oven
 
+* [Hash Brown Casserole](dutch-oven/hash-brown-casserole.md)
 * [Sausage and Pepper Lasagna](dutch-oven/sausage-and-pepper-lasagna.md)
